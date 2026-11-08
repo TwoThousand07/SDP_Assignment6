@@ -2,7 +2,7 @@
 
 **Course:** ShP-2216, Software Design Patterns  
 **Student:** ______________________________  
-**GitHub repository:** Add the repository URL after creating the repository.
+**GitHub repository:** https://github.com/TwoThousand07/SDP_Assignment6
 
 ## Purpose and design
 
