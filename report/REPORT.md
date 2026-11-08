@@ -1,7 +1,7 @@
 # Assignment 06: Visitor Pattern - Advanced File System
 
 **Course:** ShP-2216, Software Design Patterns  
-**Student:** ______________________________  
+**Student:** Yerzhan Aitimov
 **GitHub repository:** https://github.com/TwoThousand07/SDP_Assignment6
 
 ## Purpose and design
